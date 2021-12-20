@@ -15,140 +15,80 @@ My name is **Serafin** (AKA El Sera). Mechatronic engineering senior year studen
 - Big Data
 - Machine Learning
 
-## Tech:
+## Tech
 Languages, tools and some other stuff I work with.
-<br>
-- Python
-- Javascript
-- Matlab
-- C++
-- HTML
-- CSS
-- SQL
-- R
-
-- IT Support
-- VS Code
-- Git
-- Jupyter Notebooks
-- MySQL
-- Tableau
-- Illustrator
-- Google Suite
-- Bash
-
-
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/img/python.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
+      <img src="img/python.png" width="48" height="48" alt="C#" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+        <img src="img/JS.png" width="48" height="48" alt="JavaScript" />
+      <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+        <img src="img/Matlab.png" width="48" height="48" alt="Matlab" />
+      <br>Matlab
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+        <img src="img/C++.png" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+        <img src="img/HTML.png" width="40" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+        <img src="img/CSS.png" width="40" height="48" alt="CSS" />
+      <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+        <img src="img/SQL.png" width="48" height="48" alt="SQL" />
+      <br>SQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
+        <img src="img/R.png" width="40" height="48" alt="R" />
+      <br>R
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+        <img src="img/ItSupport.png" width="48" height="48" alt="IT Support" />
+      <br>IT Support
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+        <img src="img/VSCode.png" width="70" height="70" alt="VS Code" />
+      <br>VS Code
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+        <img src="img/git.png" width="70" height="70" alt="Git" />
+      <br>Git
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+        <img src="img/JupiterNotebooks.png" width="48" height="48" alt="Jupyter Notebooks" />
+      <br>Jupyter Notebooks
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
+        <img src="img/MySQL.png" width="80" height="40" alt="MySQL Workbench" />
+      <br>MySQL Workbench
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+        <img src="img/Tableau.png" width="90" height="60" alt="Tableau" />
+      <br>Tableau
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+        <img src="img/illustrator.png" width="40" height="40" alt="Adobe Illustrator" />
+      <br>Illustrator
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
+        <img src="img/Gsuite.png" width="80" height="40" alt="Google Suite" />
+      <br>Google Suite
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+        <img src="img/Bash.png" width="48" height="48" alt="Bash" />
+      <br>Bash
     </td>
   </tr>
 </table>
