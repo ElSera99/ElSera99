@@ -3,19 +3,19 @@
 My name is **Serafin** (AKA El Sera). Mechatronic engineering senior year student. I'm a coding enthusiast, mostly self-taught. Associate Degree in Infotmatics and IT Support.
 
 
-**Currently working at:** *[BMW](https://www.bmwgroup-werke.com/san-luis-potosi/es.html)* as *IoT and Digitalization Intern*.
+**Currently working at:** *[BMW](https://www.bmwgroup-werke.com/san-luis-potosi/es.html)* as *IoT and Digitalization Intern*. 💼
 
 
-**Currently learning:** *[Bootcamp: Especialidad en Ciencia de Datos](https://codigofacilito.com/ciencia-datos)*
+**Currently learning:** *[Bootcamp: Especialidad en Ciencia de Datos](https://codigofacilito.com/ciencia-datos)* 📚
 
 
-***Interests:***
+***Interested in:***
 - Backend and Frontend Web Development
 - Computer Vision
 - Big Data
 - Machine Learning
 
-## Tech
+## Languages and Tools
 Languages, tools and some other stuff I work with.
 <table>
   <tr>
@@ -94,27 +94,36 @@ Languages, tools and some other stuff I work with.
 </table>
 
 
-
 ## About me
-<br>
--
--
--
--
-
-
+- I love to explore new tech and learn new things 📘
+- Trying to learn japanese 🀄
+- Big fan of videogames 🎮
+- Cat Lover ❤️
+- Always willing to help and contribute 😃
+- Cowboy Bebop is my favorite anime 🤠
 
 ## Résumé
-<br>
-in progress...
+> *in progress...*
 
 ## Portfolio
-<br>
-in progress...
-
+> *in progress...*
 
 ## GitHub Stats:
-Stats
+[![Serafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElSera99&show_icons=true&theme=dracula)](https://github.com/ElSera99/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElSera99)](https://github.com/ElSera99/github-readme-stats)
+
 
 ## Where to find me:
-Linkedin Github Email Twitter
+<a href="https://www.linkedin.com/in/serafin-tierrafria-baez-77bb34182/">
+  <img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />
+</a>
+<a href="https://github.com/ElSera99">
+  <img align="left" alt="GitHub" width="40px" src="img/github.svg" />
+</a>
+<a href="mailto:stbugim@gmail.com">
+  <img align="left" alt="stbugim@gmail.com" width="50px" src="img/gmail.svg" />
+</a>
+<a href="https://twitter.com/ElSera99_">
+  <img align="left" alt="Twitter" width="50px" src="img/twitter.svg" />
+</a>
