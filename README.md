@@ -6,9 +6,6 @@ My name is **Serafin** (AKA El Sera). Mechatronic engineering senior year studen
 **Currently working at:** *[BMW](https://www.bmwgroup-werke.com/san-luis-potosi/es.html)* as *IoT and Digitalization Intern*. 💼
 
 
-**Currently learning:** *[Bootcamp: Especialidad en Ciencia de Datos](https://codigofacilito.com/ciencia-datos)* 📚
-
-
 ***Interested in:***
 - Backend and Frontend Web Development
 - Computer Vision
